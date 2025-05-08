@@ -65,5 +65,15 @@ Query: ![image](https://github.com/user-attachments/assets/34b8ae0b-5fb7-430e-aa
 
 Result: ![image](https://github.com/user-attachments/assets/73dc498b-6ac1-4fb0-b9a9-f8e21fb59340)
 
+## Recommendations:
+
+Repair and expand water point infrastructure.
+
+Prioritize disease-prone and underserved communities.
+
+Support maintenance training for local teams.
+
+Leverage data for policy-making and resource allocation.
+
 
 Project by Oluwapelumi Olayanju
